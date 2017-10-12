@@ -2,7 +2,7 @@
 
 ## Description
 This project analyzes philosophical texts for linguistic similarity and visualizes their relationship spatially using Metric Multidimensional Scaling.
-It also includes a Markov text synthesizer to generate a philosophical mantra from across all of the schools of thought. 
+It also includes a Markov text synthesizer to generate a philosophical "maxim" across all included schools of thought. 
 
 ## Getting Started
 
@@ -17,5 +17,5 @@ python text_mining.py
 ### Existing Files:
 philtexts3.pickle was generated using python pulltexts.py
 
-
-Project Reflection [here](alakmazaheri/TextMining/Reflection.pdf)
+## Links
+[Project Reflection] (alakmazaheri/TextMining/Reflection.pdf)
