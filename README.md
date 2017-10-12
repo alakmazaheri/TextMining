@@ -1,3 +1,21 @@
 # TextMining
 
-This is the base repo for the text mining and analysis project for Software Design at Olin College.
+## Description
+This project analyzes philosophical texts for linguistic similarity and visualizes their relationship spatially using Metric Multidimensional Scaling.
+It also includes a Markov text synthesizer to generate a philosophical mantra from across all of the schools of thought. 
+
+## Getting Started
+
+### Required Packages:
+pip install nltk requests vaderSentiment
+pip install matplotlib scikit-learn scip
+
+### Usage:
+To run the text analysis, use:
+python text_mining.py
+
+### Existing Files:
+philtexts3.pickle was generated using python pulltexts.py
+
+
+Project Reflection [here](alakmazaheri/TextMining/Reflection.pdf)
