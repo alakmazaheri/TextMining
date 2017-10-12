@@ -18,4 +18,4 @@ python text_mining.py
 philtexts3.pickle was generated using python pulltexts.py
 
 ## Links
-[Project Reflection](alakmazaheri/TextMining/Reflection.pdf)
+[Project Reflection](Reflection.pdf)
